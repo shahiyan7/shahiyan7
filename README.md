@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaifykhan133@gmail.com**
  <img 
-   src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=shahiyan7&show_icons=true&theme=tokyonight" 
 />
 
 <h3 align="left">Connect with me:</h3>
