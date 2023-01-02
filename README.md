@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahiyan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiyan7&label=Profile%20views&color=0e75b6&style=flat" alt="shahiyan7" /> </p>
 
@@ -8,6 +9,8 @@
 - 💬 Ask me about **Android,javascript**
 
 - 📫 How to reach me **kaifykhan133@gmail.com**
+ 
+ 
  
  
  <img 
