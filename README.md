@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,javascript**
+- 💬 Ask me about **Android,javascript,Flutter**
 
 - 📫 How to reach me **kaifykhan133@gmail.com**
  
