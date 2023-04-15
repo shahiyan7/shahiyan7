@@ -1,6 +1,6 @@
 <img src="https://github.com/shahiyan7/shahiyan7/blob/main/WhatsApp%20Image%202023-01-04%20at%202.45.17%20PM.jpeg">
 <h1 align="center">Hi 👋, I'm Shahiyan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software developer from India</h3>
 <img align= "right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left" >  <img src="https://komarev.com/ghpvc/?username=shahiyan7&label=Profile%20views&color=0e75b6&style=flat" alt="shahiyan7" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,javascript,Flutter**
+- 💬 Ask me about **Android ,javascript,Flutter**
 
 - 📫 How to reach me **kaifykhan133@gmail.com**
  
