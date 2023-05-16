@@ -1,5 +1,7 @@
 <img src="https://github.com/shahiyan7/shahiyan7/blob/main/WhatsApp%20Image%202023-01-04%20at%202.45.17%20PM.jpeg">
-<h1 align="center">Hi 👋, I'm Shahiyan</h1>
+<h1 align= "center">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines= I'm+Shahiyan!">
+</h1>
 <h3 align="center">A Passionate Software developer from India</h3>
 <img align= "right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
